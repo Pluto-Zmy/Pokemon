@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Fight.png</file>
+        <file>Resources/DuelFight.png</file>
+        <file>Resources/UpGradeFight.png</file>
+        <file>Resources/Logo.png</file>
+        <file>Resources/MainImg.jpg</file>
+        <file>Resources/LogInImg.jpg</file>
+        <file>Resources/HighAttackImg.gif</file>
+        <file>Resources/HighBloodImg.gif</file>
+        <file>Resources/HighDefenseImg.gif</file>
+        <file>Resources/HighSpeedImg.gif</file>
+        <file>Resources/Icon.ico</file>
+        <file>Resources/HighAttackImgSystem.gif</file>
+        <file>Resources/HighBloodImgSystem.gif</file>
+        <file>Resources/HighDefenseImgSystem.gif</file>
+        <file>Resources/HighSpeedImgSystem.gif</file>
+        <file>Resources/Bronze.png</file>
+        <file>Resources/Golden.png</file>
+        <file>Resources/Silver.png</file>
+        <file>Resources/None.png</file>
+        <file>Resources/FightBGM.wav</file>
+        <file>Resources/Lost.wav</file>
+        <file>Resources/Win.wav</file>
+        <file>Resources/Attack.wav</file>
+    </qresource>
+</RCC>
